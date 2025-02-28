@@ -1,0 +1,6 @@
+/* Custom styles can go here */
+/* Tailwind will automatically inject its styles */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
